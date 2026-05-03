@@ -1,0 +1,5 @@
+Data Science is the future of computing
+Big Data Analytics allows us to process massive amounts of Data
+Hadoop uses MapReduce to process Big Data
+Python is used for Data Science
+Hadoop and Python are powerful tools for Analytics

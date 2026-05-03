@@ -1,0 +1,11 @@
+ID,Age,Department,Salary
+1,25,HR,50000
+2,28,Engineering,60000
+3,,Engineering,65000
+4,45,Sales,80000
+5,30,,55000
+6,22,HR,48000
+7,50,Engineering,1000000
+8,35,Sales,75000
+9,,HR,52000
+10,29,Sales,
